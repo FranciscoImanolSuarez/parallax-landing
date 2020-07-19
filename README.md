@@ -16,8 +16,6 @@ npm install
 ```
 
 
-``````
-
 Luego 
 
 ```npm
