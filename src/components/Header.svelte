@@ -7,7 +7,7 @@
 
 .section-top {
 	min-height: 500px;
-	background: url('') no-repeat center center/cover;
+	background: url('https://github.com/FranciscoImanolSuarez/parallax-landing/blob/master/public/images/bg1.png?raw=true') no-repeat center center/cover;
 }
 
 .section-top h1 {

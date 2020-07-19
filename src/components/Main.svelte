@@ -51,7 +51,7 @@
 
 .parallax {
   /* The image used */
-  background-image: url("");
+  background-image: url("https://github.com/FranciscoImanolSuarez/parallax-landing/blob/master/public/images/bg2.png?raw=true");
 
   /* Set a specific height */
   height: 700px;
@@ -69,7 +69,7 @@
 		<div class="parallax"></div>
 		<img
 				class="play"
-				src=""
+				src="https://github.com/FranciscoImanolSuarez/parallax-landing/blob/master/public/images/play-button.png?raw=true"
 				alt=""
 			/>
 			<div class="content rellax" data-rellax-speed="10">
