@@ -25,7 +25,7 @@
   "homepage": "https://github.com/gndx/svelte-base#readme",
   "dependencies": {
     "rellax": "^1.12.1",
-    "svelte": "^3.22.2"
+    "svelte": "^3.49.0"
   },
   "devDependencies": {
     "@babel/core": "^7.9.6",
